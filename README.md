@@ -1,6 +1,6 @@
 # mds_sm_pycounts
 
-A package for counting words in a text file
+A cool package for counting words in a text file
 
 ## Installation
 
